@@ -22,7 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textEmailAddress" />
+            android:InputType="textEmailAddress" />
 
         <TextView
             android:id="@+id/tvCuit"
@@ -90,7 +90,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="ToggleButton" />
+            android:text="ToggleButton"
+            android:textOn="@string/lblAccionVencimientoRenovar"
+            android:textOff="@string/lblAccionVencimientoAcreditar"/>
 
         <CheckBox
             android:id="@+id/chkAceptoterminos"
@@ -108,7 +110,9 @@
             android:id="@+id/edtMensajes"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="TextView"
+            android:layout_weight="1"
+            android:maxLines="6"/>
 
         <LinearLayout
             android:layout_width="match_parent"

@@ -14,4 +14,6 @@
     <string name="lblAvisarVencimiento">Avisar por mail del vencimiento</string>
     <string name="lblAceptoTerminos">Aceptar terminos y condiciones</string>
     <string name="btnHacerPF">Hacer plazo fijo</string>
+    <string name="lblAccionVencimientoRenovar">El plazo fijo se renovara al vencimiento</string>
+    <string name="lblAccionVencimientoAcreditar">El plazo fijo se acreditara en cuenta</string>
 </resources>
