@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BancoLab01</string>
+    <string name="IblMail">Correo Electronico</string>
+    <string name="lblCuit">CUIT</string>
+    <string name="lblMoneda">Moneda</string>
+    <string name="lblMonto">Monto a invertir</string>
+    <string name="diasSeleccionados">Dias seleccionados</string>
+    <string name="diasInversion">Cantidad de dias de la inversion</string>
+    <string name="lblrendimiento">Rendimiento</string>
+    <string name="textoBoton">Texto del boton</string>
+    <string name="textoCheckbox">Texto del chechkbox</string>
+    <string name="lblMonedaDolar">Dolar</string>
+    <string name="lblMonedaPesos">Pesos</string>
+    <string name="lblAvisarVencimiento">Avisar por mail del vencimiento</string>
+    <string name="lblAceptoTerminos">Aceptar terminos y condiciones</string>
+    <string name="btnHacerPF">Hacer plazo fijo</string>
+</resources>
